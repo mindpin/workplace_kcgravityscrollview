@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.kcgravityscrollview_lib.KCGravityScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/root"
+    />
+<!-- <HorizontalScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" > -->
+
+    <!-- <FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <com.taotao.mindpin_orientationsensorimageview.OrientationSensorImageView
+            android:id="@+id/sensorview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="#aabbcc"
+            android:scaleType="fitCenter"
+            android:src="@drawable/qingmin" />
+        
+    </FrameLayout> -->
+
+<!-- </HorizontalScrollView> -->
